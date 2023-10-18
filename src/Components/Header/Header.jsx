@@ -12,7 +12,7 @@ function Header({OpenSidebar}) {
             <BsJustify className='icon' onClick={OpenSidebar}/>
         </div>
         <div className='header-left mt-3'>
-        <p className='text-bold text-dark header-text'>
+        <p className='text-bold text-dark header-text head-title'>
             Hello Shahrukh👋,
         </p>
 

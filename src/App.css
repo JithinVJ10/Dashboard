@@ -229,8 +229,11 @@ body {
   /* Extra Small <= 576px */
   
   @media screen and (max-width: 576px) {
-    .hedaer-left {
+    .head-title {
       display: none;
+    }
+    .table-text{
+      font-size: smaller;
     }
   }
   

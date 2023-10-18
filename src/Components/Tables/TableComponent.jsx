@@ -36,9 +36,9 @@ const TableComponent = () => {
       <thead>
         <tr>
           <th className='text-muted small col-5'>Product Name</th>
-          <th className='text-muted small'>Stocks</th>
-          <th className='text-muted small'>Price</th>
-          <th className='text-muted small'>Total Sales</th>
+          <th className='text-muted small table-text'>Stocks</th>
+          <th className='text-muted small table-text'>Price</th>
+          <th className='text-muted small table-text'>Total Sales</th>
         </tr>
       </thead>
       <tbody>

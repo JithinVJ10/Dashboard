@@ -5,7 +5,7 @@ import {TbNotes, TbWallet} from 'react-icons/tb'
 import Cards from './Cards';
 import Charts from '../Charts/Charts';
 import TableComponent from '../Tables/TableComponent';
-import CircleProgress from '../Charts/CircleProgress';
+
 
 
 function Home() { 
@@ -37,7 +37,7 @@ function Home() {
         </div>
 
         <Charts/>
-        
+
 
         <TableComponent/>
     </main>
